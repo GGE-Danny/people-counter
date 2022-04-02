@@ -1,0 +1,24 @@
+*{
+    
+    background-image: url(Acer_Wallpaper_01_5000x2814.jpg);
+    background-size:cover;
+   
+}
+
+
+
+#r{
+    text-align: center;
+    position:sticky;
+    color: white;
+    font-size: 40px;
+}
+
+button{
+    flex-wrap: wrap;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin-left: 700px;
+    
+}
